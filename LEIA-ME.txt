@@ -1,0 +1,3 @@
+Coloque aqui as fotos do escritório com estes nomes:
+fachada.jpg, recepcao.jpg, atendimento.jpg
+(Enquanto não existirem, a página "Quem somos" mostra um quadro "Foto em breve".)
